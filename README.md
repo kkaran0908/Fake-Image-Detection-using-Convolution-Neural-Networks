@@ -8,4 +8,5 @@
 - Research Paper : https://ieeexplore.ieee.org/abstract/document/7823911
 ### Evaluation Metric
 - Our dataset after preprocessing is balanced, and its a classification problem where given an image we have to predict whther the image is fake or pritine. So here we are using accuracy score as our evaluation metric.
-
+### Next Step:
+1. Currently I am experimenting with the transfer learning to improve the accuracy of the model using pretrained architecture such as VGG16, VGG19, etc
